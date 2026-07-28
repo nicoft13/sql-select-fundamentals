@@ -1,3 +1,7 @@
+TechStore — Consultas Básicas SELECT
+-- Autor: [Facundo Nicolás Toledo]
+-- Fecha: [28/07/2026]
+
 -- Consultas en sql
 
 -- Consulta 1: Exploración general de la tabla sales
